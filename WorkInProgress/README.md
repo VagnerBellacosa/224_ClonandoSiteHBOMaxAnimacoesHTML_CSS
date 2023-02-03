@@ -34,7 +34,8 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Clonando o Site da HBO Max com Animações em HTML e CSS](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/9d5f9956-a23e-4851-b96b-1d724f23b0da)[Entendendo o Desafio](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/6497d452-c9d3-46e6-9585-321b3dc497ce)
+- [Clonando o Site da HBO Max com Animações em HTML e CSS](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/9d5f9956-a23e-4851-b96b-1d724f23b0da)
+- [Entendendo o Desafio](https://web.dio.me/lab/clonando-o-site-da-hbo-max-com-animacoes-em-html-e-css/learning/6497d452-c9d3-46e6-9585-321b3dc497ce)
 
 
 
